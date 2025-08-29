@@ -1,9 +1,9 @@
 # Affitto Vibo Valentia
 
-3357725695
+Cellulare: 3357725695
+
+Inquadra il qr-code
 
 ---
 
-![inquadrami](qr-code.svg)
-
-**inquadrami**
+![inquadrami](qr-code.png)
